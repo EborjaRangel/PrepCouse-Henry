@@ -1,2 +1,3 @@
-# PrepCouse-Henry
-este es un modulo de prueba del PrepCourse
+este es un proyecto de prueba de como podemos clonar un repositorio y clonarlo
+desde github a modo local
+
